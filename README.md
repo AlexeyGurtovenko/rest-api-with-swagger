@@ -1,6 +1,6 @@
 ## Description
 
-REST API implemented with [Nest.js](https://docs.nestjs.com/) and [Swagger](https://swagger.io/) as an example application for the [article]().
+REST API implemented with [Nest.js](https://docs.nestjs.com/) and [Swagger](https://swagger.io/) as an example application for the [article](https://habr.com/ru/post/668340).
 
 ## Installation
 
